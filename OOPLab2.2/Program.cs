@@ -11,7 +11,7 @@ namespace OOPLab2._2
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Результати обчислення функцiї y = f(x) на промiжку вiд 0 до 3 з кроком dx = 0.05.\n\tx\t\ty = f(x)");
+            Console.WriteLine(" Результати обчислення функцiї y = f(x) на промiжку вiд 0 до 3 з кроком dx = 0.05.\n\tx\t\ty = f(x)");
             double x = 0;
             double y;
             while (x <= 3)
